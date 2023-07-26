@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wyfhover@163.com/Tomato'
+  s.homepage         = 'https://github.com/wyfhover/Tomato'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wyfhover@163.com' => 'yf_wen@edifier.com' }
-  s.source           = { :git => 'https://github.com/wyfhover@163.com/Tomato.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wyfhover/Tomato.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
 
